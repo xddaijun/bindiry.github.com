@@ -5,7 +5,7 @@ title: Python - Programming-Language - Bindiry's Wiki
 
 h3. 开发工具
 * "Python Tools for Visual Studio":http://pytools.codeplex.com/
-* "Eclipse":http://www.eclipse.org/ + * "pydev":http://pydev.org/
+* "Eclipse":http://www.eclipse.org/ + "pydev":http://pydev.org/
 * "Aptana":http://aptana.com
 * "NetBeans":http://netbeans.org/
 * "VIM":http://www.vim.org/
