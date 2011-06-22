@@ -19,6 +19,9 @@ h3. 开发工具
 * "Gitbox":http://www.gitboxapp.com/ - Git客户端
 * "Tower":http://www.git-tower.com/ - Git客户端
 
+h3. 设计工具
+* "img2icns":http://www.img2icnsapp.com/ - 简单实用的图像转成图标小工具
+
 h3. 效率工具
 * "Evernote":http://evernote.com/ - 跨平台网络同步型笔记资料管理软件
 * "Anxiety":http://www.anxietyapp.com/ - todo-list管理工具
