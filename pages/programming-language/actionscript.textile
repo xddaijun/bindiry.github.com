@@ -61,7 +61,7 @@ h3. 软件
 
 * *开发*
 ** *IDE*
-*** "FlashDevelop":http://www.flashdevelop.org/
+*** "FlashDevelop":http://www.flashdevelop.org
 *** "Flash Builder":http://www.adobe.com/cn/products/flashbuilder/
 *** "SourceMate(强大的Flash Builder辅助工具)":http://www.elementriver.com/sourcemate3
 *** "FDT":http://www.fdt.powerflasher.com/

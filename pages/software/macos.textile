@@ -5,7 +5,7 @@ title: MacOS - Software - Bindiry's Wiki
 h1. Mac OS
 
 h3(#misc). 常用工具
-* "WBIM for Mac OS X":http://www.pawpawsoft.com/ - 万寿果五笔输入法，支持临时拼音
+* "WBIM for Mac OS X":http://www.pawpawsoft.com - 万寿果五笔输入法，支持临时拼音
 * "Keka":http://www.kekaosx.com/ - 简洁实用的压缩软件
 * "欧路词典":http://www.eudic.net/eudic/mac_dictionary.aspx - 翻译软件
 
