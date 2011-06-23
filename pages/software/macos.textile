@@ -4,18 +4,18 @@ title: Mac OS X - Software - Bindiry's Wiki
 ---
 h1. Mac OS X
 
-h3(#misc). 常用工具
+h3(#misc). 常用
 * "WBIM for Mac OS X":http://www.pawpawsoft.com - 万寿果五笔输入法，支持临时拼音
 * "Keka":http://www.kekaosx.com/ - 简洁实用的压缩软件
 
-h3(#network). 网络工具
+h3(#network). 网络
 * "Leech":http://manytricks.com/leech/ - 简洁实用的下载工具
 * "Chrome":http://www.google.com/chrome - 网页浏览
 * "Shimo":http://www.chungwasoft.com/shimo/ - 支持VPN和SSH的客户端软件（支持开机启动和自动连接）
 * "Transmit":http://www.panic.com/transmit/ - FTP客户端软件
 * "Filezilla":http://filezilla-project.org/ - 免费FTP软件（客户端和服务端）
 
-h3(#develop). 开发工具
+h3(#develop). 开发
 * "TextMate":http://macromates.com/ - 代码编辑工具
 * "Coda":http://www.panic.com/coda/ - 支持FTP/SFTP等连接方式的代码编辑工具
 ** "Tabster":http://code.google.com/p/tabsterforcoda/ - 能够使Coda支持多行缩进的插件
@@ -26,10 +26,10 @@ h3(#develop). 开发工具
 * "Gitbox":http://www.gitboxapp.com/ - Git客户端
 * "Tower":http://www.git-tower.com/ - Git客户端
 
-h3(#design). 设计工具
+h3(#design). 设计
 * "img2icns":http://www.img2icnsapp.com/ - 简单实用的图像转成图标小工具
 
-h3(#productivity). 效率工具
+h3(#productivity). 效率
 * "Alfred":http://www.alfredapp.com/ - 替换系统Spotlight的免费软件，更美观更强大
 * "Evernote":http://evernote.com/ - 免费跨平台网络同步型笔记资料管理软件
 * "Wunderlist":http://www.6wunderkinder.com/wunderlist/ - 免费跨平台的任务管理工具
