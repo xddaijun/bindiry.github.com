@@ -2,7 +2,6 @@
 layout: default
 title: MacOS - Software - Bindiry's Wiki
 ---
-
 h1. Mac OS
 
 h3(#misc). 常用工具

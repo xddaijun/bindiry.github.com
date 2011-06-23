@@ -16,23 +16,23 @@ pre, code, tt { font: 0.9em Monaco, Consolas, 'andale mono', 'lucida console', m
 
 li { padding: 5px 0; }
 
-#logo { width: 960px; margin: 0 auto; font-weight: bold; font-size: 40px; padding-bottom: 10px; }
-#logo a { color: #eee; }
+#logo { font-weight: bold; font-size: 35px; padding-bottom: 10px; }
+#logo a { color: #333; }
 #logo a:hover { color: #777; }
 
 #container {
 	border:1px solid #FFF;
 	background: #eee;
-	padding:15px 40px 15px;
-	width: 890px;
+	padding:30px 50px;
+	width: 840px;
 	margin: 0 auto;
 }
 
-#sidebar { float: left; }
+#sidebar { float: left; margin-top: 16px; }
 #sidebar ul li { font-size: 16px;}
 #sidebar ul li ul { padding-top: 5px; padding-bottom: 5px; }
 
-#content { padding-left: 280px; }
+#content { padding-left: 310px; }
 
 .radius {
 	-moz-border-radius: 6px;
