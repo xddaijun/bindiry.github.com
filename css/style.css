@@ -18,8 +18,6 @@ pre, code, tt { font: 0.9em Monaco, Consolas, 'lucida console', monospace; line-
 li { padding: 5px 0; }
 
 #logo { font-weight: bold; font-size: 2em; padding-bottom: 10px; }
-#logo a { color: #ddd; }
-#logo a:hover { color: #777; }
 
 #container {
 	background: #333;
@@ -32,12 +30,15 @@ li { padding: 5px 0; }
 #sidebar ul li ul li { font-weight: normal; }
 #sidebar a { color: #888; }
 #sidebar a:hover { color: #fff; }
+#logo a { color: #ddd; }
+#logo a:hover { color: #777; }
 
 #content { 
 	margin-left: 270px;
 	padding: 12px 40px;
 	background: #ddd; 
 	color: #333; 
+	height: 100%;
 }
 #content ul { margin-top: 0; margin-bottom: 0; }
 #content ul li ul { padding-top: 5px;}
