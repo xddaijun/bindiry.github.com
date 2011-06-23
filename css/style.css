@@ -6,7 +6,7 @@ body {
 }
 
 body, input, textarea, select {
-	font:14px 'Ubuntu', 'Helvetica Neue', 'Microsoft YaHei','Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Verdana, Arial, serif;
+	font:14px 'Ubuntu', 'Helvetica Neue', 'Microsoft YaHei','Lucida Grande', 'Lucida Sans Unicode', Verdana, serif;
 }
 
 a { color: #1A53AA; text-decoration: none; -webkit-transition: color .5s; }

@@ -23,6 +23,7 @@ h3(#develop). 开发工具
 * "Vico":http://www.vicoapp.com/ - 类似于VIM的可视化代码编辑工具
 * "Versions":http://versionsapp.com/ - SVN客户端
 * "Cornerstone":http://www.zennaware.com/cornerstone/index.php - SVN客户端
+* "Github":http://mac.github.com - 免费的github官方客户端
 * "Gitbox":http://www.gitboxapp.com/ - Git客户端
 * "Tower":http://www.git-tower.com/ - Git客户端
 
@@ -30,12 +31,18 @@ h3(#design). 设计工具
 * "img2icns":http://www.img2icnsapp.com/ - 简单实用的图像转成图标小工具
 
 h3(#productivity). 效率工具
-* "Evernote":http://evernote.com/ - 跨平台网络同步型笔记资料管理软件
-* "Anxiety":http://www.anxietyapp.com/ - todo-list管理工具
+* "Alfred":http://www.alfredapp.com/ - 替换系统Spotlight的免费软件，更美观更强大
+* "Evernote":http://evernote.com/ - 免费跨平台网络同步型笔记资料管理软件
+* "Wunderlist":http://www.6wunderkinder.com/wunderlist/ - 免费跨平台的任务管理工具
+* "Anxiety":http://www.anxietyapp.com/ - 简洁小巧的任务管理工具
 
 h3(#other). 其他
-* "MacPorts":http://www.macports.org/ - 类似于Linux下apt-get或yum的软件包管理工具
-* "NTFSMounter":http://ntfsmounter.com/ - 可读写NTFS格式分区文件的工具
+* "DoubleCommand":http://doublecommand.sourceforge.net/ - 系统键位映射修改工具
 * "Kext Helper":http://cheetha.net/ - kext安装工具
+* "MacPorts":http://www.macports.org/ - 类似于Linux下apt-get或yum的软件包管理工具
+* "PropEdit":http://www.eosgarden.com/en/freeware/propedit/ - 免费的批量文件权限管理软件
+* "NTFSMounter":http://ntfsmounter.com/ - 可读写NTFS格式分区文件的工具
+* "MiniUsage":http://homepage.mac.com/nsekine/SYW/software/english/miniusage/index.html - 系统信息显示菜单
 * "MenuMeters":http://www.ragingmenace.com/software/menumeters/ - 在托盘栏显示系统硬件信息的工具
 * "AppCleaner":http://www.freemacsoft.net/AppCleaner/ - 应用卸载清理工具
+* "Shiftit":http://code.google.com/p/shiftit/ - 通过快捷键管理窗口布局的小工具
