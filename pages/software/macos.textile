@@ -3,14 +3,21 @@ layout: default
 title: MacOS - Software - Bindiry's Wiki
 ---
 
-h3. 网络工具
+h1. Mac OS
+
+h3(#misc). 常用工具
+* "WBIM for Mac OS X":http://www.pawpawsoft.com/ - 万寿果五笔输入法，支持临时拼音
+* "Keka":http://www.kekaosx.com/ - 简洁实用的压缩软件
+* "欧路词典":http://www.eudic.net/eudic/mac_dictionary.aspx - 翻译软件
+
+h3(#network). 网络工具
 * "Leech":http://manytricks.com/leech/ - 简洁实用的下载工具
 * "Chrome":http://www.google.com/chrome - 网页浏览
 * "Shimo":http://www.chungwasoft.com/shimo/ - 支持VPN和SSH的客户端软件（支持开机启动和自动连接）
 * "Transmit":http://www.panic.com/transmit/ - FTP客户端软件
 * "Filezilla":http://filezilla-project.org/ - 免费FTP软件（客户端和服务端）
 
-h3. 开发工具
+h3(#develop). 开发工具
 * "TextMate":http://macromates.com/ - 代码编辑工具
 * "Coda":http://www.panic.com/coda/ - 支持FTP/SFTP等连接方式的代码编辑工具
 ** "Tabster":http://code.google.com/p/tabsterforcoda/ - 能够使Coda支持多行缩进的插件
@@ -20,17 +27,15 @@ h3. 开发工具
 * "Gitbox":http://www.gitboxapp.com/ - Git客户端
 * "Tower":http://www.git-tower.com/ - Git客户端
 
-h3. 设计工具
+h3(#design). 设计工具
 * "img2icns":http://www.img2icnsapp.com/ - 简单实用的图像转成图标小工具
 
-h3. 效率工具
+h3(#productivity). 效率工具
 * "Evernote":http://evernote.com/ - 跨平台网络同步型笔记资料管理软件
 * "Anxiety":http://www.anxietyapp.com/ - todo-list管理工具
 
-h3. 其他
+h3(#other). 其他
 * "MacPorts":http://www.macports.org/ - 类似于Linux下apt-get或yum的软件包管理工具
-* "Keka":http://www.kekaosx.com/ - 简洁实用的压缩软件
-* "欧路词典":http://www.eudic.net/eudic/mac_dictionary.aspx - 翻译软件
 * "NTFSMounter":http://ntfsmounter.com/ - 可读写NTFS格式分区文件的工具
 * "Kext Helper":http://cheetha.net/ - kext安装工具
 * "MenuMeters":http://www.ragingmenace.com/software/menumeters/ - 在托盘栏显示系统硬件信息的工具

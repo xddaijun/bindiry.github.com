@@ -3,6 +3,8 @@ layout: default
 title: ActionScript - Programming-Language - Bindiry's Wiki
 ---
 
+h1. ActionScript
+
 h3. 工具类
 * *Tweener*
 ** "Tweening Platform":http://blog.greensock.com

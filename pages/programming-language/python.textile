@@ -3,6 +3,8 @@ layout: default
 title: Python - Programming-Language - Bindiry's Wiki
 ---
 
+h1. Python
+
 h3. 开发工具
 * "Python Tools for Visual Studio":http://pytools.codeplex.com/
 * "Eclipse":http://www.eclipse.org/ + "pydev":http://pydev.org/
