@@ -73,9 +73,3 @@ h3. 软件
 h3. 电子书与手册
 * "优化Flash平台性能(官方PDF中文版)":http://help.adobe.com/zh_CN/as3/mobile/flashplatform_optimizing_content.pdf
 * "ActionScript3参考手册":http://help.adobe.com/zh_CN/FlashPlatform/reference/actionscript/3/
-
-h3. 网站
-
-h3. 论坛
-
-h3. 博客
