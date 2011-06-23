@@ -21,7 +21,7 @@ h3. Web开发框架
 h3. 网络应用
 
 * *CMS*
-** "Plone":http://plone.org
+** "Plone":http://plone.org/
 
 * *WIKI*
 ** "MoinMoinWiki":http://moinmo.in/

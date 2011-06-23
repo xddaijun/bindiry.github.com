@@ -53,7 +53,7 @@ h3. 引擎
 ** "Stardust-Particle":http://code.google.com/p/stardust-particle-engine/
 
 h3. 框架
-* "SomaMVC":http://code.google.com/p/somamvc
+* "SomaMVC":http://code.google.com/p/somamvc/
 
 h3. 软件
 * *设计*
