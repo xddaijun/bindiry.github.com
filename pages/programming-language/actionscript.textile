@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ActionScript - Programming-Language - Bindiry's Wiki
+title: ActionScript - Programming-Language
 ---
 h1. ActionScript
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mac OS X - Software - Bindiry's Wiki
+title: Mac OS X - Software
 ---
 h1. Mac OS X
 

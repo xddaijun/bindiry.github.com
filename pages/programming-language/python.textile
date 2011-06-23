@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Python - Programming-Language - Bindiry's Wiki
+title: Python - Programming-Language
 ---
 h1. Python
 

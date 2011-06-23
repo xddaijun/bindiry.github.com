@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Windows - Software - Bindiry's Wiki
+title: Windows - Software
 ---
 h1. Windows
 
