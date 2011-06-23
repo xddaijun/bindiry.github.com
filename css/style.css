@@ -30,8 +30,8 @@ li { padding: 5px 0; }
 #sidebar ul li { font-size: 14px; font-weight: bold; }
 #sidebar ul li ul { padding-top: 5px; padding-bottom: 5px; list-style: circle; padding-left: 35px; }
 #sidebar ul li ul li { font-weight: normal; }
-#sidebar a { color: #ddd; }
-#sidebar a:hover { color: #777; }
+#sidebar a { color: #888; }
+#sidebar a:hover { color: #fff; }
 
 #content { 
 	margin-left: 270px;
