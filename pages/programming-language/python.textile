@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: Python - Programming-Language - Bindiry's Wiki
 ---
