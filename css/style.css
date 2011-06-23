@@ -10,7 +10,7 @@ body, input, textarea, select {
 	font:14px 'Ubuntu', 'Helvetica Neue', 'Microsoft YaHei','Lucida Grande', 'Lucida Sans Unicode', Verdana, serif;
 }
 
-a { color: #812024; text-decoration: none; -webkit-transition: color .5s; }
+a { color: #555; text-decoration: none; -webkit-transition: color .5s; }
 a:hover { color: #000; }
 
 pre, code, tt { font: 0.9em Monaco, Consolas, 'lucida console', monospace; line-height: 1.5; }
@@ -28,7 +28,7 @@ li { padding: 5px 0; }
 #sidebar ul li { font-size: 14px; font-weight: bold; }
 #sidebar ul li ul { padding-top: 5px; padding-bottom: 5px; list-style: circle; padding-left: 35px; }
 #sidebar ul li ul li { font-weight: normal; }
-#sidebar a { color: #888; }
+#sidebar a { color: #999; }
 #sidebar a:hover { color: #fff; }
 #logo a { color: #ddd; }
 #logo a:hover { color: #777; }
