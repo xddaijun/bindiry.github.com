@@ -2,7 +2,8 @@ body {
 	background:#000;
 	color: #333;
 	line-height: 1.8em;
-	padding:20px 0;
+	margin: 0;
+	padding: 0;
 }
 
 body, input, textarea, select {
@@ -12,32 +13,34 @@ body, input, textarea, select {
 a { color: #812024; text-decoration: none; -webkit-transition: color .5s; }
 a:hover { color: #000; }
 
-pre, code, tt { font: 0.9em Monaco, Consolas, 'andale mono', 'lucida console', monospace; line-height: 1.5; }
+pre, code, tt { font: 0.9em Monaco, Consolas, 'lucida console', monospace; line-height: 1.5; }
 
 li { padding: 5px 0; }
 
 #logo { font-weight: bold; font-size: 2em; padding-bottom: 10px; }
-#logo a { color: #333; }
+#logo a { color: #ddd; }
 #logo a:hover { color: #777; }
 
 #container {
-	width: 96%;
-	background: #bbb;
-	margin: 0 auto;
+	background: #333;
 }
 
-#sidebar { float: left; padding: 30px 40px; }
-#sidebar ul { list-style: none; padding-left: 0; }
+#sidebar { float: left; padding: 30px 40px; color: #ddd; }
+#sidebar ul { list-style: none; padding-left: 0; margin-top: 2px; }
 #sidebar ul li { font-size: 14px; font-weight: bold; }
 #sidebar ul li ul { padding-top: 5px; padding-bottom: 5px; list-style: circle; padding-left: 35px; }
 #sidebar ul li ul li { font-weight: normal; }
+#sidebar a { color: #ddd; }
+#sidebar a:hover { color: #777; }
 
 #content { 
-	margin-left: 320px;
+	margin-left: 270px;
 	padding: 12px 40px;
 	background: #ddd; 
 	color: #333; 
 }
+#content ul { margin-top: 0; margin-bottom: 0; }
+#content ul li ul { padding-top: 5px;}
 
 .radius {
 	-moz-border-radius: 6px;
