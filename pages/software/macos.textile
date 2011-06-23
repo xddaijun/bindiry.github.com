@@ -1,8 +1,8 @@
 ﻿---
 layout: default
-title: MacOS - Software - Bindiry's Wiki
+title: Mac OS X - Software - Bindiry's Wiki
 ---
-h1. Mac OS
+h1. Mac OS X
 
 h3(#misc). 常用工具
 * "WBIM for Mac OS X":http://www.pawpawsoft.com - 万寿果五笔输入法，支持临时拼音
