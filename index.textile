@@ -1,10 +1,10 @@
-ï»¿---
+---
 layout: default
 title: Bindiry's Wiki
 ---
 h1. Welcome
 
-è¿™é‡Œæ˜¯Bindiryçš„ä¸ªäººwikiï¼Œç”¨æ¥è®°å½•å·¥ä½œå­¦ä¹ ä¸­ç”¨åˆ°çš„æ•°æ®èµ„æ–™ã€‚
+ÕâÀïÊÇBindiryµÄ¸öÈËwiki£¬ÓÃÀ´¼ÇÂ¼¹¤×÷Ñ§Ï°ÖĞÓÃµ½µÄÊı¾İ×ÊÁÏ¡£
 <br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br />

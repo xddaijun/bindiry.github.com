@@ -1,10 +1,10 @@
-ï»¿---
+---
 layout: default
 title: ActionScript - Programming-Language - Bindiry's Wiki
 ---
 h1. ActionScript
 
-h3. å·¥å…·ç±»
+h3. ¹¤¾ßÀà
 * *Tweener*
 ** "Tweening Platform":http://blog.greensock.com
 ** "Tweener":http://code.google.com/p/tweener/
@@ -25,8 +25,8 @@ h3. å·¥å…·ç±»
 ** "TransformTool":http://www.senocular.com/flash/tutorials/transformtool/
 
 
-h3. å¼•æ“
-* *æ¸¸æˆ*
+h3. ÒıÇæ
+* *ÓÎÏ·*
 ** "Flixel":http://http://www.flixel.org/
 ** "FlashPunk":http://flashpunk.net/
 ** "ffilmation":http://www.ffilmation.org
@@ -34,7 +34,7 @@ h3. å¼•æ“
 ** "PushButton":http://pushbuttonengine.com
 ** "Citrus":http://citrusengine.com
 
-* *ç‰©ç†*
+* *ÎïÀí*
 ** "Box2DFlash":http://box2dflash.org/
 ** "nape":http://code.google.com/p/nape/
 ** "APE":http://www.cove.org/ape/index.htm
@@ -47,29 +47,29 @@ h3. å¼•æ“
 ** "Alternativa3D":http://alternativaplatform.com/en/alternativa3d/
 ** "Flare3d":http://www.flare3d.com/
 
-* *ç²’å­*
+* *Á£×Ó*
 ** "Partigen":http://desuade.com/partigen
 ** "Flint":http://flintparticles.org
 ** "Stardust-Particle":http://code.google.com/p/stardust-particle-engine/
 
-h3. æ¡†æ¶
+h3. ¿ò¼Ü
 * "SomaMVC":http://code.google.com/p/somamvc/
 
-h3. è½¯ä»¶
-* *è®¾è®¡*
-** "MarkMan(é©¬å…‹é³—)":http://www.getmarkman.com/
+h3. Èí¼ş
+* *Éè¼Æ*
+** "MarkMan(Âí¿Ë÷©)":http://www.getmarkman.com/
 
-* *å¼€å‘*
+* *¿ª·¢*
 ** *IDE*
 *** "FlashDevelop":http://www.flashdevelop.org
 *** "Flash Builder":http://www.adobe.com/cn/products/flashbuilder/
-*** "SourceMate(å¼ºå¤§çš„Flash Builderè¾…åŠ©å·¥å…·)":http://www.elementriver.com/sourcemate3
+*** "SourceMate(Ç¿´óµÄFlash Builder¸¨Öú¹¤¾ß)":http://www.elementriver.com/sourcemate3
 *** "FDT":http://www.fdt.powerflasher.com/
 
-** *è¾…åŠ©å·¥å…·*
+** *¸¨Öú¹¤¾ß*
 *** "DeMonsterDebugger":http://demonsterdebugger.com/
 *** "Flash FireBug":http://www.o-minds.com/products/flashfirebug
 
-h3. ç”µå­ä¹¦ä¸æ‰‹å†Œ
-* "ä¼˜åŒ–Flashå¹³å°æ€§èƒ½(å®˜æ–¹PDFä¸­æ–‡ç‰ˆ)":http://help.adobe.com/zh_CN/as3/mobile/flashplatform_optimizing_content.pdf
-* "ActionScript3å‚è€ƒæ‰‹å†Œ":http://help.adobe.com/zh_CN/FlashPlatform/reference/actionscript/3/
+h3. µç×ÓÊéÓëÊÖ²á
+* "ÓÅ»¯FlashÆ½Ì¨ĞÔÄÜ(¹Ù·½PDFÖĞÎÄ°æ)":http://help.adobe.com/zh_CN/as3/mobile/flashplatform_optimizing_content.pdf
+* "ActionScript3²Î¿¼ÊÖ²á":http://help.adobe.com/zh_CN/FlashPlatform/reference/actionscript/3/

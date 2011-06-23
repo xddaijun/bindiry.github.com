@@ -1,47 +1,47 @@
-ï»¿---
+---
 layout: default
 title: Mac OS X - Software - Bindiry's Wiki
 ---
 h1. Mac OS X
 
-h3(#misc). å¸¸ç”¨å·¥å…·
-* "WBIM for Mac OS X":http://www.pawpawsoft.com - ä¸‡å¯¿æœäº”ç¬”è¾“å…¥æ³•ï¼Œæ”¯æŒä¸´æ—¶æ‹¼éŸ³
-* "Keka":http://www.kekaosx.com/ - ç®€æ´å®ç”¨çš„å‹ç¼©è½¯ä»¶
+h3(#misc). ³£ÓÃ¹¤¾ß
+* "WBIM for Mac OS X":http://www.pawpawsoft.com - ÍòÊÙ¹ûÎå±ÊÊäÈë·¨£¬Ö§³ÖÁÙÊ±Æ´Òô
+* "Keka":http://www.kekaosx.com/ - ¼ò½àÊµÓÃµÄÑ¹ËõÈí¼ş
 
-h3(#network). ç½‘ç»œå·¥å…·
-* "Leech":http://manytricks.com/leech/ - ç®€æ´å®ç”¨çš„ä¸‹è½½å·¥å…·
-* "Chrome":http://www.google.com/chrome - ç½‘é¡µæµè§ˆ
-* "Shimo":http://www.chungwasoft.com/shimo/ - æ”¯æŒVPNå’ŒSSHçš„å®¢æˆ·ç«¯è½¯ä»¶ï¼ˆæ”¯æŒå¼€æœºå¯åŠ¨å’Œè‡ªåŠ¨è¿æ¥ï¼‰
-* "Transmit":http://www.panic.com/transmit/ - FTPå®¢æˆ·ç«¯è½¯ä»¶
-* "Filezilla":http://filezilla-project.org/ - å…è´¹FTPè½¯ä»¶ï¼ˆå®¢æˆ·ç«¯å’ŒæœåŠ¡ç«¯ï¼‰
+h3(#network). ÍøÂç¹¤¾ß
+* "Leech":http://manytricks.com/leech/ - ¼ò½àÊµÓÃµÄÏÂÔØ¹¤¾ß
+* "Chrome":http://www.google.com/chrome - ÍøÒ³ä¯ÀÀ
+* "Shimo":http://www.chungwasoft.com/shimo/ - Ö§³ÖVPNºÍSSHµÄ¿Í»§¶ËÈí¼ş£¨Ö§³Ö¿ª»úÆô¶¯ºÍ×Ô¶¯Á¬½Ó£©
+* "Transmit":http://www.panic.com/transmit/ - FTP¿Í»§¶ËÈí¼ş
+* "Filezilla":http://filezilla-project.org/ - Ãâ·ÑFTPÈí¼ş£¨¿Í»§¶ËºÍ·şÎñ¶Ë£©
 
-h3(#develop). å¼€å‘å·¥å…·
-* "TextMate":http://macromates.com/ - ä»£ç ç¼–è¾‘å·¥å…·
-* "Coda":http://www.panic.com/coda/ - æ”¯æŒFTP/SFTPç­‰è¿æ¥æ–¹å¼çš„ä»£ç ç¼–è¾‘å·¥å…·
-** "Tabster":http://code.google.com/p/tabsterforcoda/ - èƒ½å¤Ÿä½¿Codaæ”¯æŒå¤šè¡Œç¼©è¿›çš„æ’ä»¶
-* "Vico":http://www.vicoapp.com/ - ç±»ä¼¼äºVIMçš„å¯è§†åŒ–ä»£ç ç¼–è¾‘å·¥å…·
-* "Versions":http://versionsapp.com/ - SVNå®¢æˆ·ç«¯
-* "Cornerstone":http://www.zennaware.com/cornerstone/index.php - SVNå®¢æˆ·ç«¯
-* "Github":http://mac.github.com - å…è´¹çš„githubå®˜æ–¹å®¢æˆ·ç«¯
-* "Gitbox":http://www.gitboxapp.com/ - Gitå®¢æˆ·ç«¯
-* "Tower":http://www.git-tower.com/ - Gitå®¢æˆ·ç«¯
+h3(#develop). ¿ª·¢¹¤¾ß
+* "TextMate":http://macromates.com/ - ´úÂë±à¼­¹¤¾ß
+* "Coda":http://www.panic.com/coda/ - Ö§³ÖFTP/SFTPµÈÁ¬½Ó·½Ê½µÄ´úÂë±à¼­¹¤¾ß
+** "Tabster":http://code.google.com/p/tabsterforcoda/ - ÄÜ¹»Ê¹CodaÖ§³Ö¶àĞĞËõ½øµÄ²å¼ş
+* "Vico":http://www.vicoapp.com/ - ÀàËÆÓÚVIMµÄ¿ÉÊÓ»¯´úÂë±à¼­¹¤¾ß
+* "Versions":http://versionsapp.com/ - SVN¿Í»§¶Ë
+* "Cornerstone":http://www.zennaware.com/cornerstone/index.php - SVN¿Í»§¶Ë
+* "Github":http://mac.github.com - Ãâ·ÑµÄgithub¹Ù·½¿Í»§¶Ë
+* "Gitbox":http://www.gitboxapp.com/ - Git¿Í»§¶Ë
+* "Tower":http://www.git-tower.com/ - Git¿Í»§¶Ë
 
-h3(#design). è®¾è®¡å·¥å…·
-* "img2icns":http://www.img2icnsapp.com/ - ç®€å•å®ç”¨çš„å›¾åƒè½¬æˆå›¾æ ‡å°å·¥å…·
+h3(#design). Éè¼Æ¹¤¾ß
+* "img2icns":http://www.img2icnsapp.com/ - ¼òµ¥ÊµÓÃµÄÍ¼Ïñ×ª³ÉÍ¼±êĞ¡¹¤¾ß
 
-h3(#productivity). æ•ˆç‡å·¥å…·
-* "Alfred":http://www.alfredapp.com/ - æ›¿æ¢ç³»ç»ŸSpotlightçš„å…è´¹è½¯ä»¶ï¼Œæ›´ç¾è§‚æ›´å¼ºå¤§
-* "Evernote":http://evernote.com/ - å…è´¹è·¨å¹³å°ç½‘ç»œåŒæ­¥å‹ç¬”è®°èµ„æ–™ç®¡ç†è½¯ä»¶
-* "Wunderlist":http://www.6wunderkinder.com/wunderlist/ - å…è´¹è·¨å¹³å°çš„ä»»åŠ¡ç®¡ç†å·¥å…·
-* "Anxiety":http://www.anxietyapp.com/ - ç®€æ´å°å·§çš„ä»»åŠ¡ç®¡ç†å·¥å…·
+h3(#productivity). Ğ§ÂÊ¹¤¾ß
+* "Alfred":http://www.alfredapp.com/ - Ìæ»»ÏµÍ³SpotlightµÄÃâ·ÑÈí¼ş£¬¸üÃÀ¹Û¸üÇ¿´ó
+* "Evernote":http://evernote.com/ - Ãâ·Ñ¿çÆ½Ì¨ÍøÂçÍ¬²½ĞÍ±Ê¼Ç×ÊÁÏ¹ÜÀíÈí¼ş
+* "Wunderlist":http://www.6wunderkinder.com/wunderlist/ - Ãâ·Ñ¿çÆ½Ì¨µÄÈÎÎñ¹ÜÀí¹¤¾ß
+* "Anxiety":http://www.anxietyapp.com/ - ¼ò½àĞ¡ÇÉµÄÈÎÎñ¹ÜÀí¹¤¾ß
 
-h3(#other). å…¶ä»–
-* "DoubleCommand":http://doublecommand.sourceforge.net/ - ç³»ç»Ÿé”®ä½æ˜ å°„ä¿®æ”¹å·¥å…·
-* "Kext Helper":http://cheetha.net/ - kextå®‰è£…å·¥å…·
-* "MacPorts":http://www.macports.org/ - ç±»ä¼¼äºLinuxä¸‹apt-getæˆ–yumçš„è½¯ä»¶åŒ…ç®¡ç†å·¥å…·
-* "PropEdit":http://www.eosgarden.com/en/freeware/propedit/ - å…è´¹çš„æ‰¹é‡æ–‡ä»¶æƒé™ç®¡ç†è½¯ä»¶
-* "NTFSMounter":http://ntfsmounter.com/ - å¯è¯»å†™NTFSæ ¼å¼åˆ†åŒºæ–‡ä»¶çš„å·¥å…·
-* "MiniUsage":http://homepage.mac.com/nsekine/SYW/software/english/miniusage/index.html - ç³»ç»Ÿä¿¡æ¯æ˜¾ç¤ºèœå•
-* "MenuMeters":http://www.ragingmenace.com/software/menumeters/ - åœ¨æ‰˜ç›˜æ æ˜¾ç¤ºç³»ç»Ÿç¡¬ä»¶ä¿¡æ¯çš„å·¥å…·
-* "AppCleaner":http://www.freemacsoft.net/AppCleaner/ - åº”ç”¨å¸è½½æ¸…ç†å·¥å…·
-* "Shiftit":http://code.google.com/p/shiftit/ - é€šè¿‡å¿«æ·é”®ç®¡ç†çª—å£å¸ƒå±€çš„å°å·¥å…·
+h3(#other). ÆäËû
+* "DoubleCommand":http://doublecommand.sourceforge.net/ - ÏµÍ³¼üÎ»Ó³ÉäĞŞ¸Ä¹¤¾ß
+* "Kext Helper":http://cheetha.net/ - kext°²×°¹¤¾ß
+* "MacPorts":http://www.macports.org/ - ÀàËÆÓÚLinuxÏÂapt-get»òyumµÄÈí¼ş°ü¹ÜÀí¹¤¾ß
+* "PropEdit":http://www.eosgarden.com/en/freeware/propedit/ - Ãâ·ÑµÄÅúÁ¿ÎÄ¼şÈ¨ÏŞ¹ÜÀíÈí¼ş
+* "NTFSMounter":http://ntfsmounter.com/ - ¿É¶ÁĞ´NTFS¸ñÊ½·ÖÇøÎÄ¼şµÄ¹¤¾ß
+* "MiniUsage":http://homepage.mac.com/nsekine/SYW/software/english/miniusage/index.html - ÏµÍ³ĞÅÏ¢ÏÔÊ¾²Ëµ¥
+* "MenuMeters":http://www.ragingmenace.com/software/menumeters/ - ÔÚÍĞÅÌÀ¸ÏÔÊ¾ÏµÍ³Ó²¼şĞÅÏ¢µÄ¹¤¾ß
+* "AppCleaner":http://www.freemacsoft.net/AppCleaner/ - Ó¦ÓÃĞ¶ÔØÇåÀí¹¤¾ß
+* "Shiftit":http://code.google.com/p/shiftit/ - Í¨¹ı¿ì½İ¼ü¹ÜÀí´°¿Ú²¼¾ÖµÄĞ¡¹¤¾ß

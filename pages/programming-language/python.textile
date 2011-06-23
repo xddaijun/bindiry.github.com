@@ -1,10 +1,10 @@
-ï»¿---
+---
 layout: default
 title: Python - Programming-Language - Bindiry's Wiki
 ---
 h1. Python
 
-h3. å¼€å‘å·¥å…·
+h3. ¿ª·¢¹¤¾ß
 * "Python Tools for Visual Studio":http://pytools.codeplex.com/
 * "Eclipse":http://www.eclipse.org/ + "pydev":http://pydev.org/
 * "Aptana":http://aptana.com
@@ -12,13 +12,13 @@ h3. å¼€å‘å·¥å…·
 * "VIM":http://www.vim.org/
 * "Emacs":http://www.gnu.org/software/emacs/
 
-h3. Webå¼€å‘æ¡†æ¶
+h3. Web¿ª·¢¿ò¼Ü
 * "Django":http://www.djangoproject.com/
 * "Pylons":http://pylonshq.com/
 * "Tenjin":http://www.kuwata-lab.com/tenjin/
 * "TurboGears":http://turbogears.org/
 
-h3. ç½‘ç»œåº”ç”¨
+h3. ÍøÂçÓ¦ÓÃ
 
 * *CMS*
 ** "Plone":http://plone.org/
@@ -26,10 +26,10 @@ h3. ç½‘ç»œåº”ç”¨
 * *WIKI*
 ** "MoinMoinWiki":http://moinmo.in/
 
-h3. ç”µå­ä¹¦
-* "ã€Šç®€æ˜ Python æ•™ç¨‹ - a byte of pythonã€‹":http://junnan.org/ebooks/a_byte_of_python/
-* "ã€Šæ·±å…¥python - dive into pythonã€‹":http://junnan.org/ebooks/dive_into_python/html/toc/
-* "ã€Šæ·±å…¥python3 - dive into python3ã€‹":http://junnan.org/ebooks/diveintopython3
-* "ã€ŠPythonç¼–ç¨‹é‡‘å…¸ã€‹è¯»ä¹¦ç¬”è®°":http://junnan.org/ebooks/Python_How_To_Program_reading_notes.htm
-* "ã€ŠThe Python Tutorialã€‹":http://docs.python.org/tutorial/index.html
-* "ã€ŠLearn Python The Hard Wayã€‹":http://learnpythonthehardway.org/index
+h3. µç×ÓÊé
+* "¡¶¼òÃ÷ Python ½Ì³Ì - a byte of python¡·":http://junnan.org/ebooks/a_byte_of_python/
+* "¡¶ÉîÈëpython - dive into python¡·":http://junnan.org/ebooks/dive_into_python/html/toc/
+* "¡¶ÉîÈëpython3 - dive into python3¡·":http://junnan.org/ebooks/diveintopython3
+* "¡¶Python±à³Ì½ğµä¡·¶ÁÊé±Ê¼Ç":http://junnan.org/ebooks/Python_How_To_Program_reading_notes.htm
+* "¡¶The Python Tutorial¡·":http://docs.python.org/tutorial/index.html
+* "¡¶Learn Python The Hard Way¡·":http://learnpythonthehardway.org/index
