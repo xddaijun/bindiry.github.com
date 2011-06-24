@@ -23,8 +23,10 @@ h3(#develop). 开发
 * "Versions":http://versionsapp.com/ - SVN客户端
 * "Cornerstone":http://www.zennaware.com/cornerstone/index.php - SVN客户端
 * "Github":http://mac.github.com - 免费的github官方客户端
+* "Gitifier":http://psionides.github.com/gitifier/ - Github代码库监控器
 * "Gitbox":http://www.gitboxapp.com/ - Git客户端
 * "Tower":http://www.git-tower.com/ - Git客户端
+* "xmplify":http://xmplifyapp.com/ - XML编辑器
 
 h3(#design). 设计
 * "img2icns":http://www.img2icnsapp.com/ - 简单实用的图像转成图标小工具
@@ -45,3 +47,4 @@ h3(#other). 其他
 * "MenuMeters":http://www.ragingmenace.com/software/menumeters/ - 在托盘栏显示系统硬件信息的工具
 * "AppCleaner":http://www.freemacsoft.net/AppCleaner/ - 应用卸载清理工具
 * "Shiftit":http://code.google.com/p/shiftit/ - 通过快捷键管理窗口布局的小工具
+* "Growl":http://growl.info/ - 系统托盘提醒工具
