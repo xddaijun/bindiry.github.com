@@ -23,6 +23,7 @@ h3. 工具类
 ** "CollisionDetectionKit":http://code.google.com/p/collisiondetectionkit/
 ** "Casalib":http://casalib.org/
 ** "TransformTool":http://www.senocular.com/flash/tutorials/transformtool/
+** "doomsdayconsole(强大的控制台辅助工具)":http://code.google.com/p/doomsdayconsole/
 
 
 h3. 引擎
