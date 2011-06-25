@@ -34,3 +34,7 @@ h3(#productivity). 效率
 
 h3(#entertainment). 娱乐
 * "Foobar2000":http://www.foobar2000.org - 免费简洁实用的音乐播放软件
+
+h3(#system). 系统
+* "XueTr(内核级系统维护工具)":http://www.xuetr.com/
+* "PowerTool(内核级系统维护工具)":http://code.google.com/p/powertool-google/
