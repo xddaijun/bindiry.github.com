@@ -33,7 +33,7 @@ h3(#productivity). 效率
 * "Wunderlist(免费跨平台的任务管理工具)":http://www.6wunderkinder.com/wunderlist/
 
 h3(#entertainment). 娱乐
-* "Foobar2000":http://www.foobar2000.org - 免费简洁实用的音乐播放软件
+* "Foobar2000(免费简洁实用的音乐播放软件)":http://www.foobar2000.org
 
 h3(#system). 系统
 * "XueTr(内核级系统维护工具)":http://www.xuetr.com/
